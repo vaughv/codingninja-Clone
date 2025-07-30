@@ -11,7 +11,9 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-🚀 Coding Ninjas Clone Project
+
+## 🚀 Coding Ninjas Clone Project
+
 This project is a simplified front-end clone of various Coding Ninjas program pages, developed using React.js and styled with Tailwind CSS. It serves as a UI/UX exercise, showcasing modular component-based design and page navigation using conditional rendering—without any external routing library.
 
 🧩 Features
